@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.865,=C:\File\My Software\Abdal SpyTra\Abdal Abdal SpyTra Admin\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.092,C:\File\My Software\Abdal SpyTra\Abdal Abdal SpyTra Admin\MonASTAP.dfm=C:\File\My Software\Abdal SpyTra\Abdal Abdal SpyTra Admin\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.829,C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\ASTAP.dfm=C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\echoclientf.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.092,C:\File\My Software\Abdal SpyTra\Abdal Abdal SpyTra Admin\MonASTAP.h=C:\File\My Software\Abdal SpyTra\Abdal Abdal SpyTra Admin\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.829,C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\ASTAP.cpp=C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\echoclientf.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.685,C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\Abdal SpyTra Admin.cbproj=C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\Abdal Abdal SpyTra Admin.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.829,C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\ASTAP.h=C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\echoclientf.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.092,C:\File\My Software\Abdal SpyTra\Abdal Abdal SpyTra Admin\MonASTAP.cpp=C:\File\My Software\Abdal SpyTra\Abdal Abdal SpyTra Admin\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.198,C:\Users\Abdal\Desktop\Spy Pro\Abdal Spy Root\echoclient.cbproj=C:\Users\Abdal\Desktop\Spy Pro\Abdal Spy Root\Abdal Spy Root.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.368,C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\Abdal Abdal SpyTra Admin.cbproj=C:\Users\Abdal\Desktop\Spy Pro\Abdal SpyTra\Abdal Abdal SpyTra Admin\Abdal Spy Root.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
